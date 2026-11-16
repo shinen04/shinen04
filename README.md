@@ -47,7 +47,7 @@ An event ticketing platform developed by a team of 5 for SMU's CS302 module, fea
 
 ---
 
-**🚢 PortPilot — Agentic AI Port-Call Coordination**
+**🚢 PortPilot — Agentic AI Port-Call Coordination (https://github.com/rynrindesu/PortPilot)** 
 
 **Tech Stack:** Python, FastAPI, LangGraph, LangChain, PostgreSQL, Groq, AWS Bedrock
 
@@ -61,7 +61,7 @@ A hackathon prototype that monitors incoming vessel ETAs for Singapore port call
 
 ---
 
-**🌐 Tariff Calculation Web App**
+**🌐 Tariff Calculation Web App (https://github.com/shakeazeez/CSD_TARIFF_PROJECT)**
 
 **Tech Stack:** Java, Spring Boot, React, PostgreSQL, Rust, Docker, GitHub Actions, JUnit, Mockito, RestAssured
 
