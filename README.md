@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🏦 CRM System
+**🏦 CRM System**
 
 **Tech Stack:** JavaScript, TypeScript, Node.js, React, PostgreSQL (Aurora), AWS (Lambda, SQS, EventBridge, S3, CloudFormation)
 
@@ -31,8 +31,9 @@ A cloud-based CRM system developed by a team of 7 for SMU's CS301 module, design
 - Implemented an AWS Lambda-based pipeline to ingest daily bank transaction files via SFTP, validate records, and store transaction and audit information
 - Developed React admin pages for managing transactions, monitoring data ingestion, and viewing audit records
 
+---
 
-#### 🎟️ Concert Booking Platform
+**🎟️ Concert Booking Platform**
 
 **Tech Stack:** Go, PostgreSQL, RabbitMQ, GitLab CI/CD, Docker, Kubernetes, Argo CD, Kustomize
 
@@ -44,8 +45,9 @@ An event ticketing platform developed by a team of 5 for SMU's CS302 module, fea
 - Set up GitLab CI/CD pipelines with automated testing, code quality checks, security scans, and integration tests
 - Configured GitOps deployment using Argo CD and Kustomize on Kubernetes, enabling version-controlled deployments and rollbacks
 
+---
 
-#### 🚢 PortPilot — Agentic AI Port-Call Coordination
+**🚢 PortPilot — Agentic AI Port-Call Coordination**
 
 **Tech Stack:** Python, FastAPI, LangGraph, LangChain, PostgreSQL, Groq, AWS Bedrock
 
@@ -57,7 +59,9 @@ A hackathon prototype that monitors incoming vessel ETAs for Singapore port call
 - Configured the agent's system prompt and final-answer format, and added support for switching between Groq and AWS Bedrock
 - Added unit tests and live ETA-change test scripts to validate scheduling logic and agent behaviour
 
-#### 🌐 Tariff Calculation Web App
+---
+
+**🌐 Tariff Calculation Web App**
 
 **Tech Stack:** Java, Spring Boot, React, PostgreSQL, Rust, Docker, GitHub Actions, JUnit, Mockito, RestAssured
 
